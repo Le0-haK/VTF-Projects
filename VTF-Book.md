@@ -1,0 +1,1 @@
+This [Book](https://vtfoundation.gitbook.io/red-team) documents all the attacks and simulations we conducted during our Red Team exercises. It serves as a valuable resource for learning, revisiting techniques, and recreating attack scenarios for practice and improvement.
